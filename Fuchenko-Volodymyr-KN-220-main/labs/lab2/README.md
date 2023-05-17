@@ -13,7 +13,7 @@
     - 7. Визначив за якою формулою генеруються значення для методу arange. Визначив формулу для методу linspace. Порівняв формули.
     - 8. Створив декілька простих Векторів та Матриць та вивів їх розмірність. Виконав арифметичні операції над створеними Векторам/Матрицями;
 
-- Виконані завдання: https://github.com/bteodorovsky/3labb/blob/main/3.ipynb;
+- Виконані завдання: https://github.com/VolodymyrFuchenko/Python/blob/main/Fuchenko-Volodymyr-KN-220-main/labs/lab2/lab%202.ipynb;
 - 
 ### Висновок: 
 - :question: Що зроблено в роботі;
